@@ -14,7 +14,9 @@
 Kalau kalian dapet soal yang ga ada di cheatsheet, jangan lupa untuk Google dorking pake keywords `"ctf"` atau `"writeup"` atau semacamnya biar resultnya lebih spesifik.
 
 
+## Link Contoh Soal LKS
 
+[LKS Kota 2026](https://github.com/LKSTA/LKSDIKMEN-Cybersecurity-2026)
 
 
 
