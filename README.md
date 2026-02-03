@@ -3,6 +3,7 @@
 ## **🚨🚨UPDATE🚨🚨**
 
 03/02/2026 09:29 - Nambahin solver hastad broadcast attack sama common modulus di crypto
+03/02/2026 09:37 - Nambahin solver weak modulus attack (factorization attack)
 
 
 ## Link Slides
