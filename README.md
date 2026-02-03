@@ -1,5 +1,10 @@
 # Cheatsheet LKSK
 
+## **UPDATE**
+
+03/02/2026 09:29 - Nambahin solver hastad broadcast attack sama common modulus di crypto
+
+
 ## Link Slides
 
 [Cryptography](https://docs.google.com/presentation/d/1Zy82zgdjdg-bhyPfemQniuJVroTOPatDAscEF4ZOEcM/edit)
