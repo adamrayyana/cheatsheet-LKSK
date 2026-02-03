@@ -1,6 +1,6 @@
 # Cheatsheet LKSK
 
-## **UPDATE**
+## **🚨🚨UPDATE🚨🚨**
 
 03/02/2026 09:29 - Nambahin solver hastad broadcast attack sama common modulus di crypto
 
