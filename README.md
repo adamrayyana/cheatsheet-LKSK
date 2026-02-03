@@ -9,5 +9,13 @@
 [Binary Exploitation](https://docs.google.com/presentation/d/1qzPwlFjGO7_x2-WE-GD8_UowfY2t5CeqV-uoS7yVEJE/edit)
 
 [Web Exploitation](https://docs.google.com/presentation/d/1w-em8OWgO450dyMJtZp9UUYUHwZ_6tp3_h_PByqBkso/edit)
+## Notes
+
+Kalau kalian dapet soal yang ga ada di cheatsheet, jangan lupa untuk Google dorking pake keywords `"ctf"` atau `"writeup"` atau semacamnya biar resultnya lebih spesifik.
+
+
+
+
+
 
 
